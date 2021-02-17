@@ -1,8 +1,8 @@
 package com.company;
 
 public class Cliente {
-    private Responsavel responsavel;
-    private int conta;
-    private int agencia;
-    private double saldo;
+    //private Responsavel responsavel;
+    //private Conta conta;
+    private String contato;
+    private String end;
 }
